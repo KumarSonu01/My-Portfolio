@@ -31,7 +31,7 @@ export function ProjectsSection() {
       longDescription: "A revolutionary translation app that breaks language barriers with voice input, real-time translation, and natural speech synthesis.",
       technologies: ["MERN Stack", "Speech API", "Translation API", "WebRTC"],
       githubUrl: "https://github.com/KumarSonu01",
-      liveUrl: "#",
+      liveUrl: " https://kumarsonu01.github.io/PolyLingua/",
       icon: <Code className="h-8 w-8" />,
       category: "Web Application"
     },
