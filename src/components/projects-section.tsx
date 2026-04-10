@@ -5,16 +5,16 @@ import { Github, ExternalLink, Code, Database, Cpu } from "lucide-react"
 
 export function ProjectsSection() {
   const projects = [
-    {
-      title: "Job Seeker Platform",
-      description: "MERN-based full-stack application for connecting corporate and blue-collar job seekers with comprehensive job matching and application features.",
-      longDescription: "A comprehensive platform that bridges the gap between job seekers and employers, featuring advanced filtering, real-time notifications, and seamless application tracking.",
-      technologies: ["MongoDB", "Express.js", "React", "Node.js", "JWT", "Socket.io"],
-      githubUrl: "https://github.com/KumarSonu01",
-      liveUrl: "#",
-      icon: <Database className="h-8 w-8" />,
-      category: "Full Stack"
-    },
+    // {
+    //   title: "Job Seeker Platform",
+    //   description: "MERN-based full-stack application for connecting corporate and blue-collar job seekers with comprehensive job matching and application features.",
+    //   longDescription: "A comprehensive platform that bridges the gap between job seekers and employers, featuring advanced filtering, real-time notifications, and seamless application tracking.",
+    //   technologies: ["MongoDB", "Express.js", "React", "Node.js", "JWT", "Socket.io"],
+    //   githubUrl: "https://github.com/KumarSonu01",
+    //   liveUrl: "#",
+    //   icon: <Database className="h-8 w-8" />,
+    //   category: "Full Stack"
+    // },
     {
       title: "Movie Recommendation System",
       description: "Machine Learning project that personalizes movie suggestions for users based on their preferences and viewing history using collaborative filtering.",
