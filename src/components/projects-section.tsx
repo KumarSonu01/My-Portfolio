@@ -21,7 +21,7 @@ export function ProjectsSection() {
       longDescription: "An intelligent recommendation engine using advanced ML algorithms to provide personalized movie suggestions with high accuracy.",
       technologies: ["Python", "Pandas", "NumPy", "Scikit-learn", "Flask", "React"],
       githubUrl: "https://github.com/KumarSonu01",
-      liveUrl: "#",
+      //liveUrl: "#",
       icon: <Cpu className="h-8 w-8" />,
       category: "Machine Learning"
     },
@@ -31,17 +31,17 @@ export function ProjectsSection() {
       longDescription: "A revolutionary translation app that breaks language barriers with voice input, real-time translation, and natural speech synthesis.",
       technologies: ["MERN Stack", "Speech API", "Translation API", "WebRTC"],
       githubUrl: "https://github.com/KumarSonu01",
-      liveUrl: " https://kumarsonu01.github.io/PolyLingua/",
+      //liveUrl: " https://kumarsonu01.github.io/PolyLingua/",
       icon: <Code className="h-8 w-8" />,
       category: "Web Application"
     },
     {
-      title: "SmartQueue",
-      description: "AI-powered smart queue management system for businesses to optimize customer flow and reduce wait times.",
-      longDescription: "A cutting-edge queue management solution that leverages AI to predict wait times, manage customer flow, and enhance the overall service experience.",
-      technologies: ["MERN Stack", "TensorFlow", "Socket.io", "Redis"],
+      title: "Hospital Management System",
+      description: "Full-stack MERN application to manage patient records, appointments, and hospital workflows efficiently.",
+      longDescription: "A scalable MERN-based hospital management system that streamlines patient records, appointment scheduling, and role-based access while ensuring secure and efficient healthcare operations.",
+      technologies: ["MERN Stack", "JWT Authentication", "REST APIs", "Role-Based Access Control"],
       githubUrl: "https://github.com/KumarSonu01",
-      liveUrl: "#",
+      //liveUrl: "#",
       icon: <Code className="h-8 w-8" />,
       category: "Full Stack"
     }
