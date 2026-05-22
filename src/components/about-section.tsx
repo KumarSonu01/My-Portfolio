@@ -6,7 +6,7 @@ export function AboutSection() {
   const education = [
     {
       degree: "B.Tech in Computer Science Engineering",
-      institution: "College Name",
+      institution: "G.L.A University",
       period: "2022 – 2026",
       icon: <GraduationCap className="h-6 w-6" />
     },
