@@ -11,7 +11,7 @@ export function ProjectsSection() {
       description: "Machine Learning project that personalizes movie suggestions for users based on their preferences and viewing history using collaborative filtering.",
       longDescription: "An intelligent recommendation engine using advanced ML algorithms to provide personalized movie suggestions with high accuracy.",
       technologies: ["Python", "Pandas", "NumPy", "Scikit-learn", "Flask", "React"],
-      githubUrl: "https://github.com/KumarSonu01",
+      githubUrl: "https://github.com/KumarSonu01/Machine-Learning-Projects",
       liveUrl: "#",
       icon: <Cpu className="h-8 w-8" />,
       category: "Machine Learning"
@@ -31,7 +31,7 @@ export function ProjectsSection() {
       description: "Full-stack MERN application to manage patient records, appointments, and hospital workflows efficiently.",
       longDescription: "A scalable MERN-based hospital management system that streamlines patient records, appointment scheduling, and role-based access while ensuring secure and efficient healthcare operations.",
       technologies: ["MERN Stack", "JWT Authentication", "REST APIs", "Role-Based Access Control"],
-      githubUrl: "https://github.com/KumarSonu01",
+      githubUrl: "https://github.com/KumarSonu01/Hospital-Management-System",
       liveUrl: "#",
       icon: <Code className="h-8 w-8" />,
       category: "Full Stack"
