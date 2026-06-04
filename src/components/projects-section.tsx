@@ -45,6 +45,18 @@ export function ProjectsSection() {
       icon: <Code className="h-8 w-8" />,
       category: "Full Stack"
     }
+
+    {
+      title: "PriceLens",
+      description: "Full-stack price intelligence platform for comparing online and local seller prices.",
+      longDescription: "A scalable MERN-based price comparison platform that aggregates product data through web scraping pipelines, enabling users to compare prices across e-commerce platforms and local sellers. Built with Redis caching, BullMQ background jobs, JWT authentication, and modern state management for efficient and reliable price tracking.",
+      technologies: ["MERN Stack", "Web Scraping", "Redis", "BullMQ", "JWT Authentication", "Redux Toolkit", "TanStack Query", "REST APIs"],
+      githubUrl: "https://github.com/KumarSonu01/PriceLens",
+      liveUrl: "#",
+      icon: <Code className="h-8 w-8" />,
+      category: "Full Stack"
+    } 
+    
   ]
 
   const getCategoryColor = (category: string) => {
