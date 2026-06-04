@@ -26,14 +26,14 @@ export function ProjectsSection() {
       category: "Machine Learning"
     },
     {
-      title: "PolyLingua Translator",
-      description: "Voice-enabled full stack language translator supporting 60+ languages with real-time speech recognition and translation capabilities.",
-      longDescription: "A revolutionary translation app that breaks language barriers with voice input, real-time translation, and natural speech synthesis.",
-      technologies: ["MERN Stack", "Speech API", "Translation API", "WebRTC"],
-      githubUrl: "https://github.com/KumarSonu01",
-      liveUrl: " https://kumarsonu01.github.io/PolyLingua/ ",
+      title: "PriceLens",
+      description: "Full-stack price intelligence platform for comparing online and local seller prices.",
+      longDescription: "A scalable MERN-based price comparison platform that aggregates product data through web scraping pipelines, enabling users to compare prices across e-commerce platforms and local sellers. Built with Redis caching, BullMQ background jobs, JWT authentication, and modern state management for efficient and reliable price tracking.",
+      technologies: ["MERN Stack", "Web Scraping", "Redis", "BullMQ", "JWT Authentication", "Redux Toolkit", "TanStack Query", "REST APIs"],
+      githubUrl: "https://github.com/KumarSonu01/PriceLens",
+      liveUrl: "#",
       icon: <Code className="h-8 w-8" />,
-      category: "Web Application"
+      category: "Full Stack"
     },
     {
       title: "Hospital Management System",
@@ -41,17 +41,6 @@ export function ProjectsSection() {
       longDescription: "A scalable MERN-based hospital management system that streamlines patient records, appointment scheduling, and role-based access while ensuring secure and efficient healthcare operations.",
       technologies: ["MERN Stack", "JWT Authentication", "REST APIs", "Role-Based Access Control"],
       githubUrl: "https://github.com/KumarSonu01",
-      liveUrl: "#",
-      icon: <Code className="h-8 w-8" />,
-      category: "Full Stack"
-    }
-
-    {
-      title: "PriceLens",
-      description: "Full-stack price intelligence platform for comparing online and local seller prices.",
-      longDescription: "A scalable MERN-based price comparison platform that aggregates product data through web scraping pipelines, enabling users to compare prices across e-commerce platforms and local sellers. Built with Redis caching, BullMQ background jobs, JWT authentication, and modern state management for efficient and reliable price tracking.",
-      technologies: ["MERN Stack", "Web Scraping", "Redis", "BullMQ", "JWT Authentication", "Redux Toolkit", "TanStack Query", "REST APIs"],
-      githubUrl: "https://github.com/KumarSonu01/PriceLens",
       liveUrl: "#",
       icon: <Code className="h-8 w-8" />,
       category: "Full Stack"
