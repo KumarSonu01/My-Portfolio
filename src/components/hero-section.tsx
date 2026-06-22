@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button"
 import { ArrowRight, Download, Github, Linkedin, Mail } from "lucide-react"
-import sonuImage from "@/assets/sonu-kumar-new.png"
+import sonuImage from "@/assets/sonu-kumar-new.jpeg"
 
 export function HeroSection() {
   const scrollToSection = (href: string) => {
