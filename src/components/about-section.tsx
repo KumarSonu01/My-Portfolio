@@ -1,6 +1,6 @@
 import { Card, CardContent } from "@/components/ui/card"
 import { GraduationCap, Calendar, MapPin } from "lucide-react"
-import sonuImage from "@/assets/sonu-kumar-new.png"
+import sonuImage from "@/assets/sonu-kumar-new.jpeg"
 
 export function AboutSection() {
   const education = [
